@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patika</title>
+</head>
+<body>
+<!--Navbar - Start-->
+    <header>
+        <nav>
+            <ul>
+                < li >
+                    <a href="index.html">Ana Sayfa</a>
+                </ li >
+                < li >
+                    <a href="about-us.html">Hakkımızda</a>
+                </ li >
+                < li >
+                    <a href="contact.html">İletişim</a>
+                </ li >
+            </ul>
+        </nav>
+    </header>
+<!--Navbar - End--> 
+
+<!--Content - Start-->
+    <section>
+        <!--Articles - Start-->
+        <article>
+            < h2 > First Post </ h2 >
+            <img height="300" src="img/burst-kUqqaRjJuw0-unsplash.jpg" alt="Yazi 1">
+            < p > The customer himself should be able to pursue the adipisicing process. Mind, who? </ p >
+            < p > It's very important to take care of yourself. </ p >
+            < p > The way you like it is bound to be solved! </ p >
+            < p > What error do we lead at the time? </ p >
+            <ol>
+                < li > Hello, very sorry. </ li >
+                < li > Are they of trouble? </ li >
+                < li > Consequent, pleasure to be assumed. </ li >
+                < li > To be found, let it be of pain. </ li >
+            </ol>
+            <hr>
+        </article>
+        <article>
+            < h2 > Second Post </ h2 >
+            <img src="https://picsum.photos/id/27/600/300" alt="Yazi 1">
+            < p > The customer himself should be able to pursue the adipisicing process. Mind, who? </ p >
+            < p > It's very important to take care of yourself. </ p >
+            < p > The way you like it is bound to be solved! </ p >
+            < p > What error do we lead at the time? </ p >
+            <ul>
+                < li > Hello, very sorry. </ li >
+                < li > Are they of trouble? </ li >
+                < li > Consequent, pleasure to be assumed. </ li >
+                < li > To be found, let it be of pain. </ li >
+            </ul>
+            <hr>
+        </article>
+        <article>
+            < h2 > Third Post </ h2 >
+            <img src="https://picsum.photos/id/217/600/300" alt="Yazi 1">
+            < p > The customer himself should be able to pursue the adipisicing process. Mind, who? </ p >
+            < p > It's very important to take care of yourself. </ p >
+            < p > The way you like it is bound to be solved! </ p >
+            < p > What error do we lead at the time? </ p >
+            <hr>
+        </article>
+        <!--Articles - End-->
+    </section>
+    <!--Content - Start-->
+
+    <!--Footer - Start-->
+    <footer>
+        <nav>
+            <ul>
+                < li >
+                    <a href="index.html">Ana Sayfa</a>
+                </ li >
+                < li >
+                    <a href="about-us.html">Hakkımızda</a>
+                </ li >
+                < li >
+                    <a href="contact.html">İletişim</a>
+                </ li >
+            </ul>
+        </nav>
+    </footer>
+    <!--Footer - End-->
+</body>
+</html>
