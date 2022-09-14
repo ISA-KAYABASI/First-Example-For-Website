@@ -1,0 +1,34 @@
+* {
+    color: aliceblue;
+}
+.navbar-brand {
+    color: aliceblue;
+    font-size: 18px;    
+}
+.navbar-brand:hover {
+    color: greenyellow;
+    text-shadow: 1px 1px 5px rgb(192, 226, 140);
+}
+.katalog {
+    margin-right:15px;    
+}
+.card {
+    background-color: rgb(179, 178, 178);
+}
+.card:hover {
+    box-shadow: 1px 1px 8px rgb(173, 169, 169);
+}
+.contt {          
+    list-style: none;
+    text-decoration: none;
+    font-size: 15px;
+    color: aliceblue;
+}
+.material-symbols-outlined {
+    padding: 20px 5px 0 0 ;
+    align-items: center;
+}
+.contt:hover {
+    color: greenyellow;
+    text-shadow: 1px 1px 5px rgb(192, 226, 140);
+}
