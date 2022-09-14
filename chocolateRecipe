@@ -1,0 +1,59 @@
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profiterol</title>
+</head>
+<body style="background-color:rgb(226, 115, 78)">
+    <!-- header start -->
+    <header>
+        <nav>
+            < h1 > ---Semolina Halva Recipe--- </ h1 >
+                < p > It is important to take care of the patient, and the patient will be followed. Necessities, who of truth! They provide the times he wants to seek! </ p >
+                <p><span style="font-size:large;color:rgb(228, 214, 217)"><strong>Tarif:</strong><em>Ali Karagenç</em></span></p>
+                <p style="text-align: center;">
+                    <span style="color:rgb(67, 67, 80)"><b><u>Kaç kişilik:</u></b></span> 8-10 kişilik &nbsp;
+                    <span style="color:rgb(67, 67, 82)"><b><u>Hazırlama Süresi:</u></b></span> 20 dk &nbsp;
+                    <span style="color:rgb(68, 68, 80)"><u><b>Pişirme Süresi:</b></u> </span>45 dk</p>
+        </nav>
+    </header>
+    <!-- header finish -->
+    <!-- Section start -->
+    <section style="margin-left: 500px">
+        <h2 style="color:rgb(195, 211, 211)">MALZEME LİSTESİ</h2>
+            <ul>
+                < li > 1 glass of water </ li >
+                < li > 1 cup of flour </ li >
+                < li > 125 grams of butter or margarine </ li >
+                < li > 3 eggs (4 if eggs are small) </ li >
+                </ul>
+                < h3  style =" color:rgb(195, 211, 211) " > Ingredients for the profiteroles cream; </ h3 >
+            <ul>
+                < li > 2.5 cups of milk </ li >
+                < li > 3 tablespoons of flour </ li >
+                < li > 1.5 teaspoons of sugar </ li >
+                < li > 1 egg </ li >
+                < li > 1 packet vanilla </ li >
+            </ul>
+                < h3  style =" color:rgb(195, 211, 211) " > For the upper part; </ h3 >
+            <ul>
+                < li > 1 pack of instant chocolate sauce or 80 g chocolate melted in bain-marie </ li >
+            </ul>   
+            <h2 style="color:rgb(195, 211, 211)">NASIL YAPILIR</h2>
+            <ol>
+                < li > First, let's prepare the profiteroline dough. </ li >
+                < li > Let's bake our dough </ li >
+                < li > Let's prepare the profiteroles cream </ li >
+                < li > Let's fill the cream into the prefiteroles </ li >
+                < li > Let's drizzle chocolate sauce on our dessert </ li >
+            </ol>
+    </section>
+    <!-- section finish -->
+    <!-- footer start -->
+    <footer>
+        <p style="margin-left: 900px;color:blueviolet " >AFİYET OLSUN</p>
+    </footer>
+    <!-- footer finish -->
+</body>
+</html>
